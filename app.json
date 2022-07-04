@@ -1,0 +1,59 @@
+{
+  "pages":[
+    "pages/login/login",
+    "pages/home/home",
+    "pages/mobile/mobile",
+    "pages/company/company",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/poster/poster",
+    "pages/addposter/addposter",
+    "pages/posterDetail/posterDetail",
+    "pages/teacher/teacher",
+    "pages/admin/admin",
+    "pages/addadmin/addadmin",
+    "pages/admindetail/admindetail",
+    "pages/addteacher/addteacher",
+    "pages/updateteacher/updateteacher",
+    "pages/searcTteacher/searcTteacher",
+    "pages/update_searcTteacher/update_searcTteacher",
+    "pages/student/student",
+    "pages/addstudent/addstudent",
+    "pages/updatestudent/updatestudent",
+    "pages/classinfo/classinfo",
+    "pages/addclassinfo/addclassinfo",
+    "pages/updateclassinfo/updateclassinfo",
+    "pages/classDetail/classDetail",
+    "pages/contentCourses/contentCourses",
+    "pages/selectcontentCourses/selectcontentCourses",
+    "pages/addcontentCourses/addcontentCourses",
+    "pages/updatecontentCourses/updatecontentCourses",
+    "pages/student_my/student_my",
+    "pages/teacher_my/teacher_my",
+
+		"pages/teacher_student/teacher_student",
+		"pages/teacher_class/teacher_class",
+    "pages/teacher_records/teacher_records",
+    "pages/lessons_record/lessons_record",
+
+    "pages/lookkaoqinxiangqing/lookkaoqinxiangqing",
+
+    "pages/lessons_photo/lessons_photo",
+    "pages/student_photo/student_photo",
+    
+    
+    "pages/disposeConsultInfo/disposeConsultInfo",
+    "pages/disposeConsultInfoDetail/disposeConsultInfoDetail" 
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json" 
+
+}
+
